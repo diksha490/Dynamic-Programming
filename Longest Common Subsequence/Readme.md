@@ -8,16 +8,18 @@ A subsequence of a string is a new string generated from the original string wit
 
  If there is no common subsequence, return 0.
 
- Example 1:
+Example 1:
 
 Input: text1 = "abcde", text2 = "ace" 
 Output: 3  
 Explanation: The longest common subsequence is "ace" and its length is 3.
+
 Example 2:
 
 Input: text1 = "abc", text2 = "abc"
 Output: 3
 Explanation: The longest common subsequence is "abc" and its length is 3.
+
 Example 3:
 
 Input: text1 = "abc", text2 = "def"
